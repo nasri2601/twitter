@@ -3,7 +3,7 @@
 
 ---
 
-#P R É S E N T A T I O N
+# P R É S E N T A T I O N
 
 Il s'agit de tenir un compte Twitter de la promotion durant les 7 mois de formation.  
 
@@ -28,7 +28,7 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
 ----
 
-#cibles
+# cibles
 
 - Membres de la promotion
 - Professionnels du monde la Tech
@@ -37,9 +37,9 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
 ---
 
-#FRÉQUENCE
+# FRÉQUENCE
 
 **5 publications par jour, 5 jours par semaine.**  
 
-2 publications le matin(actualité générale/actu alitéintra-promo)1 publication à midi(GIF/Image/Tutoriel)2 publications fin d'après-midi/soirée (GIF techniques)
+2 publications le matin(actualité générale/actu alitéintra-promo)1 publication à midi (GIF/Image/Tutoriel) 2 publications fin d'après-midi/soirée (GIF techniques)
 
