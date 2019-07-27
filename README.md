@@ -9,7 +9,7 @@ Il s'agit de tenir un compte Twitter de la promotion durant les 7 mois de format
 
 Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
-#LIGNE EDITORIALE  
+# LIGNE EDITORIALE  
 ----
 
 
